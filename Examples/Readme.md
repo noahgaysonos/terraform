@@ -4,7 +4,7 @@ The example create VPC, VSwitch, Natgateway. The variables.tf can let you create
 
 ### Get up and running
 
-* Planning phase
+* lanning phase
 
       terraform plan 
 
