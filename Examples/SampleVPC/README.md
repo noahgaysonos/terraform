@@ -1,16 +1,18 @@
 ### VPC Example
+
 The example create VPC, VSwitch, Natgateway. The variables.tf can let you create specify parameter instances, such as availability_zone, cidr_block etc.
 
 ### Get up and running
 
 * Planning phase
 
-    terraform plan
+		terraform plan 
 
-* Apple Phase
+* Apply phase
 
-    terraform apply
+		terraform apply 
 
-* Destroy
 
-    terraform destroy
+* Destroy 
+
+		terraform destroy
