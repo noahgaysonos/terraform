@@ -1,5 +1,5 @@
-variable "noah_region" {}
-variable "noah_az" {}
-variable "noah_vpc_cidr" {}
-variable "noah_private_subnet" {}
-variable "noah_public_subnet" {}
+variable "aws_region" { default = "us-west-2" }
+variable "az" { default = "us-west-2a" }
+variable "ami" {}
+variable "vpc_cidr" {}
+variable "private_subnet" {}
