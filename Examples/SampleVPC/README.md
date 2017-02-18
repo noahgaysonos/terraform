@@ -5,7 +5,7 @@ The example create VPC, VSwitch, Natgateway. The variables.tf can let you create
 
 * Planning phase
 
-terraform plan
+    terraform plan
 
 * Apple Phase
 
