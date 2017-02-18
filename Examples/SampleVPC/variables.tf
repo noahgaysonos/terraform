@@ -1,5 +1,5 @@
 variable "availability_zones" {
-  default = "cn-beijing-c"
+  default = "us-west-2b"
 }
 
 variable "cidr_blocks" {
@@ -12,14 +12,14 @@ variable "cidr_blocks" {
 }
 
 variable "long_name" {
-  default = "alicloud"
+  default = "noahcloud"
 }
 variable "short_name" {
-  default = "ali"
+  default = "noah"
 }
 variable "vpc_cidr" {
   default = "10.1.0.0/21"
 }
 variable "region" {
-  default = "cn-beijing"
+  default = "us-west-2"
 }
